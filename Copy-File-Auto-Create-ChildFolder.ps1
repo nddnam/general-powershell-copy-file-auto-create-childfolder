@@ -1,7 +1,7 @@
 ﻿############################
 #GENERATE DEMO INPUT FILE
 ########################
-#$SOURCE_ROOT_PATH = 'C:\Users\Roger\Desktop\BLOG'
+#$SOURCE_ROOT_PATH = 'C:\Users\Roger\Desktop\Azure'
 #$INPUT_FILE = 'C:\Users\Roger\Desktop\input.csv'
 #Get-ChildItem -Recurse -Path $SOURCE_ROOT_PATH `
 #    | where { ! $_.PSIsContainer } `
